@@ -28,7 +28,7 @@ A simple HTML page about me and my hobby.
 
 You may choose to do a bonus or extension. These are optional activities that will help push your knowledge and skills further. Give them a try if you have the time!
 
-**Bonus**: Add a new page called schedule.html with a <table> containing your schedule for the week.
+**Bonus**: Add a new page called schedule.html with a `<table>` containing your schedule for the week.
 
 **Extension**: Upload some of your one pictures to [Cloudinary](https://cloudinary.com/). You may use my [video](https://www.youtube.com/watch?v=3PE80rasE38) as a guide, or just sign in and figure it out!
 
